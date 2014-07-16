@@ -58,8 +58,8 @@ section {
 
 header {
   background-color: #333333;  
-/* You can change the header background image here */    http://cynicalbabblings.files.wordpress.com/2012/04/acrobatic_dance.jpg
-  background-image: url(../images/header-background.jpg);
+/* You can change the header background image here */    
+  background-image: url(http://cynicalbabblings.files.wordpress.com/2012/04/acrobatic_dance.jpg);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
